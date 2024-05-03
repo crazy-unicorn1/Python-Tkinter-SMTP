@@ -1,0 +1,6 @@
+https://www.freelancer.com/projects/python/Python-Script-Revamp-Functionality/details
+
+Things to do: 
+3) Have one main.py file that branches to Netherlands or English based on the Settings on the first page, that's more practical and easy to update in future.
+
+8) Once you made sure everything above is working, make a DB setup. DB is to store all emailing details(all fields data in the form including attachment files as well) and to generate the Unique ID for every form. You can ask me if you need help setting up DB.(Think DB setup would take some time)
